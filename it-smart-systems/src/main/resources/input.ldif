@@ -1,0 +1,295 @@
+dn:
+objectclass: top
+objectclass: vfwebuser
+legacySsoId: legacySsoId: 
+legacySsoIdentityName:
+legacyUid:
+username: 721008491
+status: active
+salutation: Dl.
+givenname: RUS
+familyname: ADRIAN
+legacyUpdatedDate: 20195609035600Z
+legacyCreatedDate:  
+phonenumberverified: true
+phonenumber:
+phoneLastUpdatedBy: migration
+emailverified: true
+email:
+emailLastUpdatedBy: migration
+contactId: 32641843
+selectedAccount:  
+lastLogin: 20192423042400Z
+lastLogout: 20192423042400Z
+userRole:
+legacyChannelName: AAA
+channelType: SR
+newsletter: false
+userpassword: {SSHA}g2FJLgPZjdgbyjCins3JoTrSk2blYUJUmlFKGQ==
+legacyContactPhone:  
+chatBlackList:  
+legacyLanguage: ro
+avatar: vf_default
+legacySrcSystem: AAA
+legacyEbuMigrated: true
+citAccess:  
+legacyCustomerType:
+
+dn:
+objectclass: top
+objectclass: vfwebuser
+legacySsoId: legacySsoId: 
+legacySsoIdentityName:
+legacyUid:
+username: 722555000
+status: active
+salutation: Dl.
+givenname: Neagoe
+familyname: Bogdan
+legacyUpdatedDate: 20200205110200Z
+legacyCreatedDate:  
+phonenumberverified: true
+phonenumber:
+phoneLastUpdatedBy: migration
+emailverified: true
+email:
+emailLastUpdatedBy: migration
+contactId: 36853854
+selectedAccount: 709585462
+lastLogin: 20200305110300Z
+lastLogout: 20200205020200Z
+userRole:
+legacyChannelName: AAA
+channelType: SR
+newsletter: false
+userpassword: {SSHA}OhELfrreZZhLsSKB8L2RiWqjB6yQPJZVZyb6VQ==
+legacyContactPhone:  
+chatBlackList:  
+legacyLanguage: ro
+avatar: vf_default
+legacySrcSystem: eCare
+legacyEbuMigrated: true
+citAccess:  
+legacyCustomerType:
+
+dn:
+objectclass: top
+objectclass: vfwebuser
+legacySsoId: legacySsoId: 
+legacySsoIdentityName:
+legacyUid:
+username: 722504714
+status: active
+salutation: Dl.
+givenname: Alexandru Ulise
+familyname: Galu
+legacyUpdatedDate: 20190406100400Z
+legacyCreatedDate:  
+phonenumberverified: true
+phonenumber:
+phoneLastUpdatedBy: migration
+emailverified: true
+email:
+emailLastUpdatedBy: migration
+contactId: 33977459
+selectedAccount:  
+lastLogin: 20195321045300Z
+lastLogout: 20195321045300Z
+userRole:
+legacyChannelName: AAA
+channelType: SR
+newsletter: false
+userpassword: {SSHA}9JH0UKI/Sp7jDn9l6eICns7yZnb2EtMuwgo5RA==
+legacyContactPhone:  
+chatBlackList:  
+legacyLanguage: ro
+avatar: vf_default
+legacySrcSystem: AAA
+legacyEbuMigrated: true
+citAccess:  
+legacyCustomerType:
+
+dn:
+objectclass: top
+objectclass: vfwebuser
+legacySsoId: legacySsoId: 
+legacySsoIdentityName:
+legacyUid:
+username: 722470365
+status: active
+salutation: Dna./Dl.
+givenname: Pastor
+familyname: Viorica
+legacyUpdatedDate: 20191205021200Z
+legacyCreatedDate:  
+phonenumberverified: true
+phonenumber:
+phoneLastUpdatedBy: migration
+emailverified: true
+email:
+emailLastUpdatedBy: migration
+contactId:  
+selectedAccount:  
+lastLogin: 20200812120800Z
+lastLogout: 20200212030200Z
+userRole:
+legacyChannelName:  
+channelType: SR
+newsletter: false
+userpassword: {SSHA}+AyqtTiq4mwlJANmQsKVhOrsXMXPJjN9kXQ9SA==
+legacyContactPhone:  
+chatBlackList:  
+legacyLanguage:  
+avatar: vf_default
+legacySrcSystem: eCare
+legacyEbuMigrated: false
+citAccess:  
+legacyCustomerType:
+
+dn:
+objectclass: top
+objectclass: vfwebuser
+legacySsoId: legacySsoId: 
+legacySsoIdentityName:
+legacyUid:
+username: 723366263
+status: active
+salutation: Dna./Dl.
+givenname: Nicolae
+familyname: Chimiec
+legacyUpdatedDate: 20190001070000Z
+legacyCreatedDate:  
+phonenumberverified: true
+phonenumber:
+phoneLastUpdatedBy: migration
+emailverified: true
+email:
+emailLastUpdatedBy: migration
+contactId:  
+selectedAccount:  
+lastLogin: 20190001070000Z
+lastLogout: 20172919112900Z
+userRole:
+legacyChannelName: EnrollPage
+channelType: SR
+newsletter: false
+userpassword: {SSHA}2LI8sDqHdlSwFL7IuH9o/6JTcifmWSIF2FvfNw==
+legacyContactPhone:  
+chatBlackList:  
+legacyLanguage: ro
+avatar: vf_default
+legacySrcSystem: eCare
+legacyEbuMigrated: false
+citAccess:  
+legacyCustomerType:
+
+dn:
+objectclass: top
+objectclass: vfwebuser
+legacySsoId: legacySsoId: 
+legacySsoIdentityName:
+legacyUid:
+username: 724749928
+status: active
+salutation: Dna./Dl.
+givenname: Adeline 
+familyname: Luygia
+legacyUpdatedDate: 20185323025300Z
+legacyCreatedDate:  
+phonenumberverified: true
+phonenumber:
+phoneLastUpdatedBy: migration
+emailverified: true
+email:
+emailLastUpdatedBy: migration
+contactId:  
+selectedAccount:  
+lastLogin: 20182824012800Z
+lastLogout: 20180024040000Z
+userRole:
+legacyChannelName: EnrollPage
+channelType: SR
+newsletter: false
+userpassword: {SSHA}iit7m7lnfmZDLTxD/N8kfLrHU3wGRg8GfRWMPQ==
+legacyContactPhone:  
+chatBlackList:  
+legacyLanguage:  
+avatar: vf_default
+legacySrcSystem: mSite
+legacyEbuMigrated: false
+citAccess:  
+legacyCustomerType:
+
+dn:
+objectclass: top
+objectclass: vfwebuser
+legacySsoId: legacySsoId: 
+legacySsoIdentityName:
+legacyUid:
+username: 723615468
+status: active
+salutation: Dna./Dl.
+givenname: Ioan
+familyname: Bucuci
+legacyUpdatedDate: 20145326085300Z
+legacyCreatedDate:  
+phonenumberverified: true
+phonenumber:
+phoneLastUpdatedBy: migration
+emailverified: true
+email:
+emailLastUpdatedBy: migration
+contactId:  
+selectedAccount:  
+lastLogin: 20163110093100Z
+lastLogout: 20163110093100Z
+userRole:
+legacyChannelName: EnrollPage
+channelType: SR
+newsletter: true
+userpassword: {SSHA}Wg0pHFxm8izIVKiFkbFvrvv7nrLeDRRAsz3YMw==
+legacyContactPhone:  
+chatBlackList:  
+legacyLanguage:  
+avatar: vf_default
+legacySrcSystem:  
+legacyEbuMigrated:  
+citAccess:  
+legacyCustomerType:
+
+dn:
+objectclass: top
+objectclass: vfwebuser
+legacySsoId: legacySsoId: 
+legacySsoIdentityName:
+legacyUid:
+username: 723959408
+status: active
+salutation: Dna./Dl.
+givenname: Mihaela
+familyname: Carniciu
+legacyUpdatedDate: 20184816124800Z
+legacyCreatedDate:  
+phonenumberverified: true
+phonenumber:
+phoneLastUpdatedBy: migration
+emailverified: true
+email:
+emailLastUpdatedBy: migration
+contactId:  
+selectedAccount:  
+lastLogin: 20204721024700Z
+lastLogout: 20200121050100Z
+userRole:
+legacyChannelName: EnrollPage
+channelType: SR
+newsletter: true
+userpassword: {SSHA}NzQQzdpGi/f+JUSlyhqmQNvqn0pKOFReohhbKQ==
+legacyContactPhone:  
+chatBlackList:  
+legacyLanguage:  
+avatar: vf_default
+legacySrcSystem: eCare
+legacyEbuMigrated: false
+citAccess:  
+legacyCustomerType:
